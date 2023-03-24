@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tnhnkzc (Tunahan Kuzucu) I'm from Turkey but currently living in France.
 - 👀 I’m interested in full-stack web development.
-- 🧑‍💻 I’m currently learning JavaScript and Laravel.
+- 🧑‍💻 I’m currently learning Typescript and React.
 - 📫 You can reach me on LinkedIn @tunahankuzucu or via my email: tunahankuzucuu@gmail.com
 
 <!---
